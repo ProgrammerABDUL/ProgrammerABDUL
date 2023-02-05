@@ -22,14 +22,19 @@ I'm front-end web developer who's learning more programming languages and Backen
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
+<!-- Most Used Languages -->
+<!-- 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerabdul&show_icons=true&locale=en&layout=compact" alt="programmerabdul" />
-</p>
+</p> -->
+
+<!-- Stats -->
 <!-- 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerabdul&show_icons=true&locale=en" alt="programmerabdul" />
-</p>
+</p> -->
 
-<p>
+<!-- Streaks -->
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerabdul&" alt="programmerabdul" />
 </p> -->
