@@ -14,6 +14,7 @@ I'm front-end web developer who's learning more programming languages and Backen
 * ✉️  You can contact me at [abdulrehmanjiwani5@gmail.com](mailto:abdulrehmanjiwani5@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
 
+<!-- Skills Start -->
 <h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
@@ -24,11 +25,11 @@ I'm front-end web developer who's learning more programming languages and Backen
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerabdul&show_icons=true&locale=en&layout=compact" alt="programmerabdul" />
 </p>
-
+<!-- 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerabdul&show_icons=true&locale=en" alt="programmerabdul" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerabdul&" alt="programmerabdul" />
-</p>
+</p> -->
