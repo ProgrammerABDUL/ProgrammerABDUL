@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Rehman Jiwani
+====================================================================================================================================
 
-<!--
-**ProgrammerABDUL/ProgrammerABDUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Web Developer
+-----------------------
 
-Here are some ideas to get you started:
+I am a front-end web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Karachi, Pakistan
+* 🖥️  See my [Portfolio](https://github.com/ProgrammerABDUL)
+* ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/abdul-rehman-jiwani-9054a5230)
+* ✉️  You can contact me at [abdulrehmanjiwani5@gmail.com](mailto:abdulrehmanjiwani5@gmail.com)
+* 🤝  I'm open to collaborate on interesting projects
