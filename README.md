@@ -10,7 +10,7 @@ I'm a Full-stack Web Developer who's learning more programming languages and Bac
 
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my [Portfolio](https://github.com/ProgrammerABDUL)
-* ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/abdul-rehman-jiwani-9054a5230)
+* ⚡  See my [LikedIn Profile](https://pk.linkedin.com/in/abdul-rehman-jiwani)
 * ✉️  You can contact me at [abdulrehmanjiwani5@gmail.com](mailto:abdulrehmanjiwani5@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
